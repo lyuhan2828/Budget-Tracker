@@ -10,7 +10,7 @@ Budget-Tracker is an application that trackers budget without an internet connec
 
 
 
-## screenshot of the web
+## Screenshot of the browser
 ![budget-tracker](https://user-images.githubusercontent.com/98847835/179862650-5492e333-636f-4786-82c0-e60e684f8ddf.png)
 
 
